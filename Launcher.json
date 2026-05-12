@@ -1,8 +1,8 @@
 {   
 	"Version": "1.00",
-	"FileList":"http://187.16.242.194/dayz/filelist.json",
-	"FileDelete":"http://187.16.242.194/dayz/filedelete.json",
-	"DownloadUpdate": "http://187.16.242.194/dayz/game/",		
+	"FileList":"https://raw.githubusercontent.com/ProjectX-dayz/ProjectX-Dayz/main/filelist.json",
+	"FileDelete":"https://raw.githubusercontent.com/ProjectX-dayz/ProjectX-Dayz/main/filedelete.json",
+	"DownloadUpdate": "https://raw.githubusercontent.com/ProjectX-dayz/ProjectX-Dayz/main/game/",		
 	"News": [
 		"https://github.com/ProjectX-dayz/ProjectX-Dayz/blob/main/News/0.png",
 		"https://github.com/ProjectX-dayz/ProjectX-Dayz/blob/main/News/1.png",
