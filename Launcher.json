@@ -4,8 +4,8 @@
 	"FileDelete":"https://raw.githubusercontent.com/ProjectX-dayz/ProjectX-Dayz/main/filedelete.json",
 	"DownloadUpdate": "https://raw.githubusercontent.com/ProjectX-dayz/ProjectX-Dayz/main/game/",		
 	"News": [
-		"https://github.com/ProjectX-dayz/ProjectX-Dayz/blob/main/News/0.png",
-		"https://github.com/ProjectX-dayz/ProjectX-Dayz/blob/main/News/1.png",
-		"https://github.com/ProjectX-dayz/ProjectX-Dayz/blob/main/News/2.png"
+		"https://raw.githubusercontent.com/ProjectX-dayz/ProjectX-Dayz/main/News/0.png",
+		"https://raw.githubusercontent.com/ProjectX-dayz/ProjectX-Dayz/main/News/1.png",
+		"https://raw.githubusercontent.com/ProjectX-dayz/ProjectX-Dayz/main/News/2.png"
 	]			
 }
